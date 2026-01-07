@@ -16,5 +16,8 @@ git remote set-url origin https://PAT@github.com/repo-url
 
 git push origin master ==>>> new branch master will be created in github as the default branch in github is main
 
+git clone <repo-url>
+
+git pull origin master 
 
 
