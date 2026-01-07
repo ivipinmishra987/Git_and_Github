@@ -20,4 +20,6 @@ git clone <repo-url>
 
 git pull origin master 
 
+This is sample text edited from github and committed by github to test " git pull commands"  
+
 
