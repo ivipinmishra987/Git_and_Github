@@ -1,2 +1,4 @@
+
 this is demo file from dev
-Hi Everyone
+Hi Everyone Master branch got merged in dev after resolving merge conflict
+
