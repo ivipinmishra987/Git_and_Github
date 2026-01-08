@@ -1,5 +1,5 @@
-def myNewPrint(n):
-    print(n)
+def myprint():
+    print("hello my print helped me printing this")
     return 0
 
-myNewPrint("Hello this from dev function calling string parameter")
+myprint()
