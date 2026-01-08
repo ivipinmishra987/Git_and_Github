@@ -1,1 +1,4 @@
-This is from master txt
+
+this is demo file from dev
+Hi Everyone Master branch got merged in dev after resolving merge conflict
+
